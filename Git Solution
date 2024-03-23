@@ -1,0 +1,6 @@
+
+
+1. Download and install Git on your machine as mentioned in Poke's answer.
+2. Restart VS Code.
+3. Open Command Prompt (Crtl+Shift+P) and write 'Git: Initialize Repository' and choose a folder you like (it can be even a temp folder).
+4. Finally Git logo appears as shown in Torvin's answer and then its easy to set up your git account and start using it.
